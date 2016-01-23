@@ -1,11 +1,6 @@
-Greetings,
+Hi there,
 
-Thanks for registering your {{company_name}} account. This mail is only here to get you confirming your email address.
-
-Unless clicking on the following link, your account won't be activated.
-You have {{activation_expiration_days}} days before the link expires.
-
-Click the link below to confirm registration:
-{{ activation_url }}
+Thanks for registering your {{company_name}} account.
+Your registration was successful and we are glad to have you on board.
 
 Remember : {{company_mission}}

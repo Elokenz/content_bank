@@ -1,6 +1,6 @@
 Greetings,
 
-Thanks for registering your {{startup_name}} account. This mail is only here to get you confirming your email address.
+Thanks for registering your {{company_name}} account. This mail is only here to get you confirming your email address.
 
 Unless clicking on the following link, your account won't be activated.
 You have {{activation_expiration_days}} days before the link expires.
@@ -8,4 +8,4 @@ You have {{activation_expiration_days}} days before the link expires.
 Click the link below to confirm registration:
 {{ activation_url }}
 
-Remember : {{startup_mission}}
+Remember : {{company_mission}}
