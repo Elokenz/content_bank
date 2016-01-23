@@ -19,4 +19,9 @@
     "example": "support@elokenz.com"
   },
 
+  "company_country": {
+    "definition": "The company headquartes country",
+    "example": "France"
+  },
+
 }
