@@ -9,4 +9,14 @@
     "example": "Elokenz helps you to drive your content marketing"
   },
 
+  "company_url": {
+    "definition": "The main company url",
+    "example": "http://www.elokenz.com"
+  },
+
+  "company_support_email": {
+    "definition": "The email address for support messages",
+    "example": "support@elokenz.com"
+  },
+
 }
