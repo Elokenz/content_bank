@@ -7,6 +7,8 @@ Content is organized as follows :
     -   (variations)
       -   lang
 
+Along the content, we use double curled expressions that should be replaced by your custom variable. Ex : {{company_name}} should be replaced by _Elokenz_ if it's your company name. A list of all variables with their definition is accessible in the __references__ forlder.
+
 ## Categories
 Here are the categories :
 - Transactionnal

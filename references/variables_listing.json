@@ -1,0 +1,12 @@
+{
+  "company_name": {
+    "definition": "The company name",
+    "example": "Elokenz"
+  },
+
+  "company_mission": {
+    "definition": "The company mission or value proposition",
+    "example": "Elokenz helps you to drive your content marketing"
+  },
+
+}
